@@ -31,11 +31,13 @@ The goal of this repository is to share my investigations about how to create an
 | DOUT 1      | PD7        | 3                 | 25      | 17                |      |
 | DOUT 0      | PD6        | 2                 | 24      | 18                |      |
 
-# About hardware / boards
+# Hardware / boards
 As a camera board I used the "MT9M001 1.3Mp HD CMOS Infrared Camera Module with Adapter board" from Arducam (http://www.arducam.com/product/mt9m001-1-3mp-hd-cmos-infrared-camera-module-adapter-board/). I found this board on ebay for about $18. 
+
 ![](images/MT9M001-board.jpg?raw=true)
 
 Controller board I used is a CY7C68013A development board from geeetech (http://www.geeetech.com/wiki/index.php/CY7C68013, also here https://sigrok.org/wiki/Lcsoft_Mini_Board). I ordered my board on aliexpress for less as 4 euro, you can found it by searching for "CY7C68013A USB logic analyzer core board". Probably you can found such boards on ebay too. 
+
 ![](images/CY7C68013A.jpg?raw=true)
 
 # Connection
