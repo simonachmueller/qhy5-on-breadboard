@@ -7,7 +7,7 @@ The goal of this repository is to share my investigations about how to create an
 # Wiring table
 | Description | CY7C68013A | CY7C68013A 56-pin | MT9M001 | MT9M001 board pin | Note |
 | ----------- | ---------- | ----------------- | ------- | ----------------- | ---- | 
-| CLKIN       | CTRL0 + PA3| 36 + 43           | 29      | 8                 |      |
+| CLKIN       | CTRL0 + PA3| 36 + 43           | 29      | 8                 | Connect CTRL0 and PA3 in parallel |
 | SCL         | SCL        | 22                | 46      | 3                 |      |
 | SDA         | SDA        | 23                | 45      | 4                 |      |
 | PIXCLK      | --         | --                | 31      | 7                 | Not connected |
