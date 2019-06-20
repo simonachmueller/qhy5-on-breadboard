@@ -36,7 +36,7 @@ As a camera board I used the "MT9M001 1.3Mp HD CMOS Infrared Camera Module with 
 
 ![](images/MT9M001-board.jpg?raw=true)
 
-Controller board I used is a CY7C68013A development board from geeetech (http://www.geeetech.com/wiki/index.php/CY7C68013, also here https://sigrok.org/wiki/Lcsoft_Mini_Board). I ordered my board on aliexpress for less as 4 euro, you can found it by searching for "CY7C68013A USB logic analyzer core board". Probably you can found such boards on ebay too. 
+Controller board I used is a CY7C68013A development board from geeetech (http://www.geeetech.com/wiki/index.php/CY7C68013, also here https://sigrok.org/wiki/Lcsoft_Mini_Board). I ordered my board on aliexpress for less than 4 euros, you can found it by searching for "CY7C68013A USB logic analyzer core board". Probably you can found such boards on ebay too. 
 
 ![](images/CY7C68013A.jpg?raw=true)
 
