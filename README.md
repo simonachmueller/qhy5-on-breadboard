@@ -41,3 +41,8 @@ As a prototype I used dupont wires 15 centimeter long to connect boards together
  ![](images/camera-module.jpg?raw=true)
  ![](images/camera-module-back-side.jpg?raw=true)
  ![](images/controller-board.jpg?raw=true)
+
+ # Driver and firmware
+Developers of QHY5 camera left VID and PID of the controller unchanged, so the USB ID's of the original camera and the development board are the same.  
+Every time you connect the QHY5 camera to the computer, it checks this ID's and uploads the firmware to the microcontroller's RAM. When you connect the controller board from geeetech computer thinks you connected the QHY5 camera (if you have QHY5 driver installed). 
+I tested my camera clone on Ubuntu Linux 16.04 with INDI server and PHD2 guiding software, both was able to detect camera and take pictures. I have not tested it on Windows yet, but I assume it should work as well.
