@@ -1,5 +1,5 @@
 # QHY5 on breadboard
-This repository is a result of reverse engineering of the QHY5 astronomical guide camera 
+This repository is a result of analizing the QHY5 astronomical guide camera 
 
 # What is this repository about
 The goal of this repository is to share my investigations about how to create an equivalent of the well-known QHY5 grayscale astrocamera by just wiring two fairly cheap boards (the MT9M001 adapter board and a the CY7C68013A dev board) together.
