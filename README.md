@@ -15,7 +15,7 @@ The goal of this repository is to share my investigations about how to create an
 | RESET       | PA0              | 40                | 10      | 19                |      |
 | STANDBY     | GND              | Any GND           | 7       | 20                | Connect to any GND pin on the controller board |
 | TRIGGER     | --               | --                | 8       | 21                | Not connected |
-| HSYNC (LV)  | --               | --                | 40      | 9                 | Not connected |
+| HSYNC (LV)  | --               | --                | 40      | 6                 | Not connected |
 | VSYNC (FW)  | --               | --                | 41      | 5                 | Not connected |
 | STROBE      | --               | --                | 39      | 22                | Not connected |
 | VCC         | VCC              | Any VCC           | Many    | 1                 |      |
